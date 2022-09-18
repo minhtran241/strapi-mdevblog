@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_layout_missions",
+  "info": {
+    "displayName": "mission",
+    "icon": "check-circle"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "default": "Our Mission",
+      "required": true
+    },
+    "content": {
+      "type": "text",
+      "required": true
+    },
+    "showLogo": {
+      "type": "boolean",
+      "default": true,
+      "required": true
+    }
+  }
+}

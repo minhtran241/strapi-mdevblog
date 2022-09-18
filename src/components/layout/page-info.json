@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_layout_page_infos",
+  "info": {
+    "displayName": "PageInfo",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    },
+    "cover": {
+      "allowedTypes": [
+        "images",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "seo": {
+      "type": "component",
+      "repeatable": true,
+      "component": "seo.seo-information"
+    }
+  }
+}

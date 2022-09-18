@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_layout_newsletter_forms",
+  "info": {
+    "displayName": "newsletterForm",
+    "icon": "envelope"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "default": "Subcribe to our newsletter",
+      "required": true
+    },
+    "subHeading": {
+      "type": "text",
+      "default": "Stay up to date with our new course and free training releases"
+    }
+  }
+}

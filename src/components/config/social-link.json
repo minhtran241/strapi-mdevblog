@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_config_social_links",
+  "info": {
+    "displayName": "socialLink",
+    "icon": "globe"
+  },
+  "options": {},
+  "attributes": {
+    "socialMedia": {
+      "type": "enumeration",
+      "enum": [
+        "github",
+        "youtube",
+        "twiter",
+        "facebook",
+        "whatsapp"
+      ],
+      "required": true
+    },
+    "link": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

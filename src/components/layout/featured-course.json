@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_layout_featured_courses",
+  "info": {
+    "displayName": "featuredCourse",
+    "icon": "chalkboard-teacher"
+  },
+  "options": {},
+  "attributes": {
+    "course": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::course.course"
+    },
+    "heading": {
+      "type": "string",
+      "default": "New course now live!"
+    },
+    "announcement": {
+      "type": "text",
+      "default": "Explore more to extend your knowledge"
+    }
+  }
+}
