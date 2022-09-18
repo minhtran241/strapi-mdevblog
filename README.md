@@ -1,3 +1,10 @@
+<div align='center'>
+<img src='https://raw.githubusercontent.com/minhtran241/strapi-mdevblog/main/favicon.ico' width='150px' height='150px'/>
+</div>
+<div align='center'>
+<h1> M - Blog for Developers </h1>
+</div>
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
