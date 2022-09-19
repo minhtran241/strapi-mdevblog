@@ -12,6 +12,7 @@
   "devDependencies": {},
   "dependencies": {
     "@minhtrn/strapi-plugin-github-projects": "^1.0.3",
+    "@strapi/plugin-documentation": "^4.3.8",
     "@strapi/plugin-graphql": "4.3.8",
     "@strapi/plugin-i18n": "4.3.8",
     "@strapi/plugin-users-permissions": "4.3.8",
